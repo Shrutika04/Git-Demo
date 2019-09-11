@@ -24,10 +24,10 @@ public class Login
         
 	}
  
- public void getscreenshot()
+ public void GitTestClass()
  {
-	 File src=(TakesScreenshot)driver.getscreenshotAs(OutputType.FILE));
-	 
+	
+	 System.out.println("This is demo git program");
 			 
  }
 }
