@@ -26,10 +26,15 @@ public class Login
  
  public void GitTestClass()
  {
-	
 	 System.out.println("This is demo git program");
 	 System.out.println("This is push from Git");
 	 System.out.println("Learning git is fun");
 	 System.out.println("This is newly added code");
  }
+ 
+ public void branch()
+ {
+	 System.out.println("Hello GIT");
+ }
+ 
 }

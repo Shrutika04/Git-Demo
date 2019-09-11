@@ -16,5 +16,8 @@ public class Demo
  public void DemoGit()
  {
 	 System.out.println("This is newly added class");
+	 System.out.println("This is newly added branch");
+	 System.out.println("This is branch code");
+	 System.out.println("branching in GIT");
  }
 }
